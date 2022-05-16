@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/week12/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/lib/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

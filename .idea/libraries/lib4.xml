@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/week12/out/artifacts/untitled5_war_exploded/WEB-INF/lib/sqljdbc41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/out/artifacts/untitled5_war_exploded/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/out/artifacts/untitled5_war_exploded/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/out/artifacts/untitled5_war_exploded/WEB-INF/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/out/artifacts/untitled5_war_exploded/WEB-INF/lib/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/out/artifacts/untitled5_war_exploded/WEB-INF/lib/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week12/out/artifacts/untitled5_war_exploded/WEB-INF/lib/javax.xml.bind.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

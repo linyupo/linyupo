@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/week11/web/WEB-INF/lib/sqljdbc41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week11/web/WEB-INF/lib/javax.xml.bind.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week11/web/WEB-INF/lib/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week11/web/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/week11/web/WEB-INF/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
